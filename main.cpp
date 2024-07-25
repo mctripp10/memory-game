@@ -210,7 +210,7 @@ void glutTimer (int val) {
 
 // Idle function that controls the animation of the cards
 void idle (void) {
-    float i = 5;      // Flip speed
+    float i = 0.1;      // Flip speed
 
     /*
      * Flip first card up

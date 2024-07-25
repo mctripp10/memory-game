@@ -19,3 +19,9 @@
 	<GL/glu.h>
 	<stdlib.h>
 
+1721865853 source:c:\users\mctri\workspaces\github-repos\memory-game\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<ctime>
+	<algorithm>
+
