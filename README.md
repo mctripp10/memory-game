@@ -5,7 +5,7 @@ OpenGL GUI implementation of the popular children's card flip memory game.
 <img src="memory-game-demo.gif" width="500">
 
 To play, a set of 16 cards containing pairs of matching objects are shuffled and placed in a 4 × 4 grid, face down.
-In this solitaire version, a player can turn over any two cards and, if they match, can remove them from the board. Otherwise, they
+In this solitaire version, a player can turn over any two cards and, if they match, remove them from the board. Otherwise, the two cards
 are turned over, and the player gets to turn over two more cards. The objective is to remove all of
 the cards in as least turns as possible. 
 
